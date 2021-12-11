@@ -1,0 +1,15 @@
+/Users/i300942/Documents/code/adventofcode2021_c-/Day 1/bin/Debug/net6.0/Day 1
+/Users/i300942/Documents/code/adventofcode2021_c-/Day 1/bin/Debug/net6.0/Day 1.deps.json
+/Users/i300942/Documents/code/adventofcode2021_c-/Day 1/bin/Debug/net6.0/Day 1.runtimeconfig.json
+/Users/i300942/Documents/code/adventofcode2021_c-/Day 1/bin/Debug/net6.0/Day 1.dll
+/Users/i300942/Documents/code/adventofcode2021_c-/Day 1/bin/Debug/net6.0/ref/Day 1.dll
+/Users/i300942/Documents/code/adventofcode2021_c-/Day 1/bin/Debug/net6.0/Day 1.pdb
+/Users/i300942/Documents/code/adventofcode2021_c-/Day 1/obj/Debug/net6.0/Day 1.csproj.AssemblyReference.cache
+/Users/i300942/Documents/code/adventofcode2021_c-/Day 1/obj/Debug/net6.0/Day 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/i300942/Documents/code/adventofcode2021_c-/Day 1/obj/Debug/net6.0/Day 1.AssemblyInfoInputs.cache
+/Users/i300942/Documents/code/adventofcode2021_c-/Day 1/obj/Debug/net6.0/Day 1.AssemblyInfo.cs
+/Users/i300942/Documents/code/adventofcode2021_c-/Day 1/obj/Debug/net6.0/Day 1.csproj.CoreCompileInputs.cache
+/Users/i300942/Documents/code/adventofcode2021_c-/Day 1/obj/Debug/net6.0/Day 1.dll
+/Users/i300942/Documents/code/adventofcode2021_c-/Day 1/obj/Debug/net6.0/ref/Day 1.dll
+/Users/i300942/Documents/code/adventofcode2021_c-/Day 1/obj/Debug/net6.0/Day 1.pdb
+/Users/i300942/Documents/code/adventofcode2021_c-/Day 1/obj/Debug/net6.0/Day 1.genruntimeconfig.cache
